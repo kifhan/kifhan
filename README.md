@@ -55,7 +55,7 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 
 - HTML5, CSS3, JavaScript, TypeScript
 - React
-  - React-Router, React-strap, Chakra-UI, Material-UI, Styled-Components, Formik, Yup, zustand, React-Three-Fiber, Three.js, Axios
+  - React-Router, React-strap, Styled-Components, Tailwind-css, Formik, Yup, React-Three-Fiber, Three.js, Axios, zustand, react-query, Recoil
 - Node.js
   - Webpack, Babel, Express, Mongoose, Sequelize, RESTful API, JWT, OAuth, Socket.io, WebRTC, Nginx, AWS EC2, MongoDB, MySQL, PostgreSQL, Redis
 - Python
@@ -71,7 +71,7 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 
 ## Wish to Learn more about
 
-- react-query, next.js, nest.js, flutter, dart, kotlin, prisma, docker,
+- next.js, nest.js, flutter, dart, kotlin, prisma, docker,
 
 ## Contact Me
 
