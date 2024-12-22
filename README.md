@@ -14,7 +14,7 @@
 influencer marketing & matching solution for small business.
 role as tech lead & frontend developer.
 
-[View project](https://www.aling.co.kr)
+[View project](https://branding.aling.co.kr/)
 
 #### Personal achievements
 
