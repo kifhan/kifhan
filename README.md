@@ -11,32 +11,32 @@
 
 ### Aling (2024)
 
-influencer marketing & matching solution for small business.
-role as tech lead & frontend developer.
+Influencer marketing & matching solution for small business.
+Role as tech lead & frontend developer.
 
 [View project](https://branding.aling.co.kr/)
 
 #### Personal achievements
 
-- expo-router
-- advanced authentication control
-- rapid prototyping with supabase
+- Use expo-router
+- Implements advanced authentication control
+- Rapid prototyping with supabase
 
 ### AmazingTicket (2023)
 
 Multi-tenent Reservation and ticket purchase solution for kids park.
-role as lead developer (fullstack).
+Role as lead developer (fullstack).
 
 [View project](https://www.amazingticket.site)
 
 #### Personal achievements
 
-- django rest framework, optimise api - query, serializer, db cache with redis, indexing
-- load balancing with aws auto scaling group, cloudformation, rds auorora postgresql
-- react web app publish automation with cloudformation, route53, cloudfront, s3
-- backend deployment automation with python script + ssh + aws cli
-- location based query with geo-django
-- using React-native, implemnets deep-linking, app notification, etc.
+- Use django rest framework, optimise api - query, serializer, db cache with redis, indexing
+- Implements load balancing with aws auto scaling group, cloudformation, rds auorora postgresql
+- Create react web app publish automation with cloudformation, route53, cloudfront, s3
+- Create backend deployment automation with python script + ssh + aws cli
+- Use location based query with geo-django
+- Using React-native, implemnets deep-linking, app notification, etc.
 
 ### HappySaeaMap (2021)
 
@@ -46,8 +46,8 @@ This is a web application that allows users to watch videos and find a place fro
 
 #### Personal achievements
 
-- video play & sync control
-- video - map marker data relation
+- Implements video play & sync control
+- Implements video - map marker data relation
 
 ### Umtaijung.com Website for artist Um Taijung (2020)
 
@@ -69,7 +69,7 @@ This is a 2D game that I developed using Phaser 3. The game features a simple st
 
 #### Personal achievements
 
-- tile map, game state control, stage control
+- Implements tile map, game state control, stage control
 
 ### GoWithRobo : Self-driving robot that cares your groceries (2019)
 
@@ -79,8 +79,8 @@ This is a project that I developed using Ros, Python, Arduino, and Raspberry Pi,
 
 #### Personal achievements
 
-- use multi-thread python programming
-- learn ROS 1, slam, robot hardware, self-driving tech knowledge
+- Use multi-thread python programming
+- Learn ROS 1, slam, robot hardware, self-driving tech knowledge
 
 ### MultiHack : Real-Time Editor and Voice Chat. (2018)
 
@@ -90,7 +90,7 @@ Realtime collaboration for programmers. This is a project that I developed using
 
 #### Personal achievements
 
-- learn about CRDT, p2p, the tech knowledge of concurrency in collaborative interface.
+- Learn about CRDT, p2p, the tech knowledge of concurrency in collaborative interface.
 
 ### KihwanNet : a visual interface for building neural networks (2018)
 
@@ -100,8 +100,8 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 
 #### Personal achievements
 
-- lean about multi-perceptron theory and implements them on javacript
-- using html canvas, create intuitive gui.
+- Lean about multi-perceptron theory and implements them on javacript
+- Using html canvas, create intuitive gui.
 
 ## Skills
 
