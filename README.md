@@ -15,6 +15,11 @@ This is a web application that allows users to watch videos and find a place fro
 
 [View project](https://happysaeamap.web.app/)
 
+#### Personal achievements
+
+- video play & sync control
+- video - map marker data relation
+
 ### Umtaijung.com Website for artist Um Taijung (2020)
 
 For this project, I developed a responsive website using React, chakra-ui. The website features a gallery, artist info, and contact form.
@@ -33,11 +38,20 @@ This is a 2D game that I developed using Phaser 3. The game features a simple st
 
 [View project](https://kifhan.github.io/HappySaea/)
 
+#### Personal achievements
+
+- tile map, game state control, stage control
+
 ### GoWithRobo : Self-driving robot that cares your groceries (2019)
 
 This is a project that I developed using Ros, Python, Arduino, and Raspberry Pi, Jetson Nano, SLAM, OpenCV, and Deep Learning. The robot features a self-driving, map navigation, object detection, object tracking, voice commend system, and a video chat. Originaly designed for visually impaired people.
 
 [View video](https://youtu.be/MZVMW8I5pdE)
+
+#### Personal achievements
+
+- use multi-thread python programming
+- learn ROS 1, slam, robot hardware, self-driving tech knowledge
 
 ### MultiHack : Real-Time Editor and Voice Chat. (2018)
 
@@ -45,11 +59,20 @@ Realtime collaboration for programmers. This is a project that I developed using
 
 [View project](https://github.com/multihack/multihack-web)
 
+#### Personal achievements
+
+- learn about CRDT, p2p, the tech knowledge of concurrency in collaborative interface.
+
 ### KihwanNet : a visual interface for building neural networks (2018)
 
 Creating a Neural Network with a visual interfaces. This is a project that I developed using HTML, javascript. The project features a visual interface for building neural networks.
 
 [View project](https://github.com/rellat/kihwannet)
+
+#### Personal achievements
+
+- lean about multi-perceptron theory and implements them on javacript
+- using html canvas, create intuitive gui.
 
 ## Skills
 
