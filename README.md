@@ -11,7 +11,7 @@
 
 ### Aling (2024)
 
-Influencer marketing & matching solution for small businesses.
+Influencer marketing & matching solution for small businesses. Beta (Currently in development) 
 
 Role: Tech Lead & Frontend Developer
 
