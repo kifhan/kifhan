@@ -2,52 +2,56 @@
 
 ## About Me
 
-- 👋 Hi, I’m @kifhan
-- 👀 I’m interested in Game making, Web, AI and Robots.
-- 💞️ I'm a web developer based in Busan, South Korea. 
-- 🌱 I have over 10 years of experience in developing responsive and user-friendly websites using modern web technologies such as React, Nodejs.
+- 👋 Hi, I'm Kihwan Lee, also known online as @kifhan.
+- 👀 My interests lie in game development, web development, artificial intelligence, and robotics.
+- 💞️ I'm a passionate web developer based in Busan, South Korea, with over 10 years of experience crafting responsive and user-friendly websites using modern technologies like React and Node.js.
+- 💪 I excel at rapid prototyping and swift execution to establish proof of concept.
 
 ## Projects
 
 ### Aling (2024)
 
-Influencer marketing & matching solution for small business.
-Role as tech lead & frontend developer.
+Influencer marketing & matching solution for small businesses.
+
+Role: Tech Lead & Frontend Developer
 
 [View project](https://branding.aling.co.kr/)
 
 #### Personal achievements
 
-- Use expo-router
-- Implements advanced authentication control
-- Rapid prototyping with supabase
+- Utilized expo-router for efficient routing.
+- Implemented advanced authentication controls for secure access.
+- Achieved rapid prototyping through Supabase. It helped communicate with server developer and excels development process.
 
 ### AmazingTicket (2023)
 
-Multi-tenent Reservation and ticket purchase solution for kids park.
-Role as lead developer (fullstack).
+Multi-tenant Reservation and Ticket Purchase Solution for Kids Park.
+
+Role: Lead Developer (Fullstack)
 
 [View project](https://www.amazingticket.site)
 
 #### Personal achievements
 
-- Use django rest framework, optimise api - query, serializer, db cache with redis, indexing
-- Implements load balancing with aws auto scaling group, cloudformation, rds auorora postgresql
-- Create react web app publish automation with cloudformation, route53, cloudfront, s3
-- Create backend deployment automation with python script + ssh + aws cli
-- Use location based query with geo-django
-- Using React-native, implemnets deep-linking, app notification, etc.
+- Optimized API performance using Django REST framework querysets, serializers, and database caching with Redis and indexing.
+- Implemented load balancing with AWS Auto Scaling Group, CloudFormation, and RDS Aurora PostgreSQL.
+- Automated React web app publishing with CloudFormation, Route53, CloudFront, and S3.
+- Automated backend deployment with Python script, SSH, and AWS CLI.
+- Leveraged location-based queries with GeoDjango for precise location data.
+- Developed engaging mobile features like deep-linking and app notifications using React Native.
 
 ### HappySaeaMap (2021)
 
-This is a web application that allows users to watch videos and find a place from the video on the same page. I developed this project using React, React-Router, React-strap, Chakra-UI, google-map, firebase, and youtube API.
+Web application allowing users to watch videos and locate on-screen locations.
+
+Technologies: React, React-Router, React-strap, Chakra-UI, Google Maps, Firebase, YouTube API
 
 [View project](https://happysaeamap.web.app/)
 
 #### Personal achievements
 
-- Implements video play & sync control
-- Implements video - map marker data relation
+- Implemented synchronized video playback with map marker and control.
+- Established a robust data relationship between video and map markers.
 
 ### Umtaijung.com Website for artist Um Taijung (2020)
 
@@ -73,14 +77,21 @@ This is a 2D game that I developed using Phaser 3. The game features a simple st
 
 ### GoWithRobo : Self-driving robot that cares your groceries (2019)
 
-This is a project that I developed using Ros, Python, Arduino, and Raspberry Pi, Jetson Nano, SLAM, OpenCV, and Deep Learning. The robot features a self-driving, map navigation, object detection, object tracking, voice commend system, and a video chat. Originaly designed for visually impaired people.
+Project leveraging ROS, Python, Arduino, Raspberry Pi/Jetson Nano, SLAM, OpenCV, Deep Learning:
+  * Self-driving capabilities
+  * Map navigation
+  * Object detection and tracking
+  * Voice command system
+  * Video chat
+
+Originally designed to assist visually impaired individuals.
 
 [View video](https://youtu.be/MZVMW8I5pdE)
 
 #### Personal achievements
 
-- Use multi-thread python programming
-- Learn ROS 1, slam, robot hardware, self-driving tech knowledge
+- Utilized multi-threaded Python programming.
+- Acquired knowledge of ROS 1, SLAM, robot hardware, and self-driving technology.
 
 ### MultiHack : Real-Time Editor and Voice Chat. (2018)
 
@@ -90,7 +101,7 @@ Realtime collaboration for programmers. This is a project that I developed using
 
 #### Personal achievements
 
-- Learn about CRDT, p2p, the tech knowledge of concurrency in collaborative interface.
+- Gained insights into CRDT, peer-to-peer (P2P) networks, and concurrency in collaborative interfaces.
 
 ### KihwanNet : a visual interface for building neural networks (2018)
 
@@ -100,8 +111,8 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 
 #### Personal achievements
 
-- Lean about multi-perceptron theory and implements them on javacript
-- Using html canvas, create intuitive gui.
+- Studied multi-perceptron theory and implemented it in JavaScript.
+- Created an intuitive GUI using HTML Canvas.
 
 ## Skills
 
