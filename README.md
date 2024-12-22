@@ -9,6 +9,35 @@
 
 ## Projects
 
+### Aling (2024)
+
+influencer marketing & matching solution for small business.
+role as tech lead & frontend developer.
+
+[View project](https://www.aling.co.kr)
+
+#### Personal achievements
+
+- expo-router
+- advanced authentication control
+- rapid prototyping with supabase
+
+### AmazingTicket (2023)
+
+Multi-tenent Reservation and ticket purchase solution for kids park.
+role as lead developer (fullstack).
+
+[View project](https://www.amazingticket.site)
+
+#### Personal achievements
+
+- django rest framework, optimise api - query, serializer, db cache with redis, indexing
+- load balancing with aws auto scaling group, cloudformation, rds auorora postgresql
+- react web app publish automation with cloudformation, route53, cloudfront, s3
+- backend deployment automation with python script + ssh + aws cli
+- location based query with geo-django
+- using React-native, implemnets deep-linking, app notification, etc.
+
 ### HappySaeaMap (2021)
 
 This is a web application that allows users to watch videos and find a place from the video on the same page. I developed this project using React, React-Router, React-strap, Chakra-UI, google-map, firebase, and youtube API.
