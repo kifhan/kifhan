@@ -119,8 +119,9 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 - HTML5, CSS3, JavaScript, TypeScript
 - React
   - React-Router, React-strap, Styled-Components, Tailwind-css, Formik, Yup, React-Three-Fiber, Three.js, Axios, zustand, react-query, Recoil
+- Next.js
 - Node.js
-  - Webpack, Babel, Express, Mongoose, Sequelize, RESTful API, JWT, OAuth, Socket.io, WebRTC, Nginx, AWS EC2, MongoDB, MySQL, PostgreSQL, Redis
+  - Webpack, Babel, Express, nest.js, Mongoose, Sequelize, prisma, RESTful API, JWT, OAuth, Socket.io, WebRTC, Nginx, AWS EC2, MongoDB, MySQL, PostgreSQL, Redis
 - Python
   - django, django-rest-framework, django-channels, fastapi, flask,
   - numpy, pandas, matplotlib, scikit-learn, tensorflow, keras, pytorch
@@ -131,10 +132,10 @@ Creating a Neural Network with a visual interfaces. This is a project that I dev
 - Firebase, Strapi
 - React Native
   - Expo, React Navigation, react-native-paper, react-native-svg
+- AWS s3, ec2, elb, auto scaling group, route 53, etc.
+- Gcloud compute, cloud sql, storage, dns, etc.
+- Docker
 
-## Wish to Learn more about
-
-- next.js, nest.js, flutter, dart, kotlin, prisma, docker,
 
 ## Contact Me
 
