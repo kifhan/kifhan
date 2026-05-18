@@ -1,143 +1,60 @@
-# Kihwan Lee's Portfolio
+# Kihwan Lee
 
-## About Me
+Product-minded full-stack developer building reservation, payment, CRM, and on-site POS systems as one coherent product.
 
-- 👋 Hi, I'm Kihwan Lee, also known online as @kifhan.
-- 👀 My interests lie in game development, web development, artificial intelligence, and robotics.
-- 💞️ I'm a passionate web developer based in Busan, South Korea, with over 10 years of experience crafting responsive and user-friendly websites using modern technologies like React and Node.js.
-- 💪 I excel at rapid prototyping and swift execution to establish proof of concept.
+- Email: [kifhan@gmail.com](mailto:kifhan@gmail.com)
+- GitHub: [github.com/kifhan](https://github.com/kifhan)
+- Portfolio site: [kifhan.github.io](https://kifhan.github.io)
+- PDF portfolio: [portfolio.pdf](https://kifhan.github.io/portfolio.pdf)
 
-## Projects
+## Focus
 
-### Aling (2024)
+I work across backend contracts, customer-facing web, operator CRM, field POS, and cloud operations. My strongest work is connecting product surfaces that share the same order, reservation, payment, permission, and site-scoped business state.
 
-Influencer marketing & matching solution for small businesses. Beta (Currently in development) 
+## Representative Work
 
-Role: Tech Lead & Frontend Developer
+### AmazingTicket
 
-[View project](https://branding.aling.co.kr/)
+Multi-tenant reservation and ticketing product for customer booking, CRM operations, payment handling, and on-site workflows.
 
-#### Personal achievements
+- Backend/API: Django, Django REST Framework, PostgreSQL/PostGIS, Redis, Celery
+- Frontend: React, TypeScript, Vite, TanStack Query, Zustand
+- Operations: GCP, Cloud SQL, Cloud Storage, deployment scripts, targeted verification
+- Product surfaces: customer reservation flow, CRM dashboard/settings, reservation product/calendar/list, my-page purchase and reservation status
 
-- Utilized expo-router for efficient routing.
-- Implemented advanced authentication controls for secure access.
-- Achieved rapid prototyping through Supabase. It helped communicate with server developer and excels development process.
+### Amazing POS
 
-### AmazingTicket (2023)
+Standalone Expo POS app for cashier sales, table/order management, terminal payment flows, and device-local operational settings.
 
-Multi-tenant Reservation and Ticket Purchase Solution for Kids Park.
+- Expo, React Native, Expo Router, React Query
+- Site-scoped session context, terminal identity, local device settings
+- Cashier-first interaction model for fast field operations
+- Payment pending locks and recovery-oriented order state
 
-Role: Lead Developer (Fullstack)
+### CRM Operations
 
-[View project](https://www.amazingticket.site)
+Operator workflows for reservation handling, sales statistics, payment-error support, site permissions, exports, and bulk actions.
 
-#### Personal achievements
+- Dense operational UI for repeated admin work
+- Server pagination, filters, status mutations, CSV exports
+- Site-scoped permission gates and action-level policy checks
+- Dashboard and statistics alignment with backend contracts
 
-- Optimized API performance using Django REST framework querysets, serializers, and database caching with Redis and indexing.
-- Implemented load balancing with AWS Auto Scaling Group, CloudFormation, and RDS Aurora PostgreSQL.
-- Automated React web app publishing with CloudFormation, Route53, CloudFront, and S3.
-- Automated backend deployment with Python script, SSH, and AWS CLI.
-- Leveraged location-based queries with GeoDjango for precise location data.
-- Developed engaging mobile features like deep-linking and app notifications using React Native.
+## Earlier Projects
 
-### HappySaeaMap (2021)
+- Aling: influencer marketing and matching solution for small businesses
+- HappySaeaMap: video playback synchronized with map markers
+- Um Taijung / Ummuseum websites: artist and museum web experiences
+- HappySaea: Phaser 3 game prototype
+- GoWithRobo: ROS-based self-driving grocery-assist robot prototype
+- MultiHack: real-time collaborative editor with voice/video chat
+- KihwanNet: visual neural-network builder in JavaScript canvas
 
-Web application allowing users to watch videos and locate on-screen locations.
+## Technical Stack
 
-Technologies: React, React-Router, React-strap, Chakra-UI, Google Maps, Firebase, YouTube API
-
-[View project](https://happysaeamap.web.app/)
-
-#### Personal achievements
-
-- Implemented synchronized video playback with map marker and control.
-- Established a robust data relationship between video and map markers.
-
-### Umtaijung.com Website for artist Um Taijung (2020)
-
-For this project, I developed a responsive website using React, chakra-ui. The website features a gallery, artist info, and contact form.
-
-[View project](https://www.umtaijung.com)
-
-### Ummuseum.com Website for Ummuseum (2019 ~ 2021)
-
-In this project, I developed a responsive website using gnuboard, jquery, php, mysql. The website features a gallery, museum info, and contact form.
-
-[View project](http://www.ummuseum.com)
-
-### HappySaea : The game (2019)
-
-This is a 2D game that I developed using Phaser 3. The game features a simple story, a map, and a interaction with environment. Unfinished project.
-
-[View project](https://kifhan.github.io/HappySaea/)
-
-#### Personal achievements
-
-- Implements tile map, game state control, stage control
-
-### GoWithRobo : Self-driving robot that cares your groceries (2019)
-
-Project leveraging ROS, Python, Arduino, Raspberry Pi/Jetson Nano, SLAM, OpenCV, Deep Learning:
-  * Self-driving capabilities
-  * Map navigation
-  * Object detection and tracking
-  * Voice command system
-  * Video chat
-
-Originally designed to assist visually impaired individuals.
-
-[View video](https://youtu.be/MZVMW8I5pdE)
-
-#### Personal achievements
-
-- Utilized multi-threaded Python programming.
-- Acquired knowledge of ROS 1, SLAM, robot hardware, and self-driving technology.
-
-### MultiHack : Real-Time Editor and Voice Chat. (2018)
-
-Realtime collaboration for programmers. This is a project that I developed using HTML, javascript, node.js, express, Socket.io, WebRTC, and LevelDB. The project features a real-time editor with collaboration, and a video chat.
-
-[View project](https://github.com/multihack/multihack-web)
-
-#### Personal achievements
-
-- Gained insights into CRDT, peer-to-peer (P2P) networks, and concurrency in collaborative interfaces.
-
-### KihwanNet : a visual interface for building neural networks (2018)
-
-Creating a Neural Network with a visual interfaces. This is a project that I developed using HTML, javascript. The project features a visual interface for building neural networks.
-
-[View project](https://github.com/rellat/kihwannet)
-
-#### Personal achievements
-
-- Studied multi-perceptron theory and implemented it in JavaScript.
-- Created an intuitive GUI using HTML Canvas.
-
-## Skills
-
-- HTML5, CSS3, JavaScript, TypeScript
-- React
-  - React-Router, React-strap, Styled-Components, Tailwind-css, Formik, Yup, React-Three-Fiber, Three.js, Axios, zustand, react-query, Recoil
-- Next.js
-- Node.js
-  - Webpack, Babel, Express, nest.js, Mongoose, Sequelize, prisma, RESTful API, JWT, OAuth, Socket.io, WebRTC, Nginx, AWS EC2, MongoDB, MySQL, PostgreSQL, Redis
-- Python
-  - django, django-rest-framework, django-channels, fastapi, flask,
-  - numpy, pandas, matplotlib, scikit-learn, tensorflow, keras, pytorch
-- Vue
-  - Vuex, Vue-Router,
-- Svelte
-  - svelte-kit, Svelte-UI,
-- Firebase, Strapi
-- React Native
-  - Expo, React Navigation, react-native-paper, react-native-svg
-- AWS s3, ec2, elb, auto scaling group, route 53, etc.
-- Gcloud compute, cloud sql, storage, dns, etc.
-- Docker
-
-
-## Contact Me
-
-- 📫 If you'd like to get in touch, please feel free to email me at kifhan at gmail.com or connect with me on [GitHub](https://www.github.com/kifhan)
-- Thank you for visiting my portfolio!
+- Backend: Django, Django REST Framework, FastAPI, Node.js, REST APIs, JWT/OAuth
+- Data: PostgreSQL/PostGIS, Redis, MySQL, MongoDB, Firebase, Supabase
+- Frontend: React, TypeScript, Vite, Next.js, TanStack Query, Zustand, Tailwind CSS
+- Mobile/POS: Expo, React Native, React Navigation, device-local app flows
+- Cloud/Ops: GCP, AWS, Docker, deployment automation, storage/CDN checks
+- Product quality: API contract design, targeted tests, release verification, operational documentation
