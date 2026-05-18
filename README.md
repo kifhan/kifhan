@@ -42,7 +42,7 @@ Operator workflows for reservation handling, sales statistics, payment-error sup
 - Site-scoped permission gates and action-level policy checks
 - Dashboard and statistics alignment with backend contracts
 
-# Kihwan Lee's Portfolio
+## Full Portfolio Archive
 
 ## About Me
 
