@@ -9,7 +9,9 @@ Product-minded full-stack developer building reservation, payment, CRM, and on-s
 
 ## Current Focus
 
-I work across backend contracts, customer-facing web, operator CRM, field POS, and cloud operations. My strongest work is connecting product surfaces that share the same order, reservation, payment, permission, and site-scoped business state.
+I'm Kihwan Lee, also known online as @kifhan, a Busan-based full-stack developer with over 10 years of experience building responsive, user-friendly web products with modern technologies like React, Node.js, Django, and cloud platforms. My interests span web development, game development, artificial intelligence, and robotics, and I work best when rapid prototyping can turn an idea into a concrete proof of concept quickly.
+
+Today I focus on product systems that connect backend contracts, customer-facing web, operator CRM, field POS, and cloud operations. My strongest work is connecting product surfaces that share the same order, reservation, payment, permission, and site-scoped business state.
 
 ## Product Highlights
 
@@ -43,13 +45,6 @@ Operator workflows for reservation handling, sales statistics, payment-error sup
 - Dashboard and statistics alignment with backend contracts
 
 ## Full Portfolio Archive
-
-## About Me
-
-- 👋 Hi, I'm Kihwan Lee, also known online as @kifhan.
-- 👀 My interests lie in game development, web development, artificial intelligence, and robotics.
-- 💞️ I'm a passionate web developer based in Busan, South Korea, with over 10 years of experience crafting responsive and user-friendly websites using modern technologies like React and Node.js.
-- 💪 I excel at rapid prototyping and swift execution to establish proof of concept.
 
 ## Projects
 
